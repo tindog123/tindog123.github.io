@@ -107,7 +107,7 @@ font-weight: bold;
   spacing:10px;
 }
 
-@media (max-width:482px) {
+@media (max-width:1028px) {
    h1{
     font-size:30px;
   }
