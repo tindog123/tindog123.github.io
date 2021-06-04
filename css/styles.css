@@ -116,4 +116,7 @@ font-weight: bold;
 #title{
   text-align: center;
 }
+  #pricing{
+  padding: 100px 50px;
+}
 }
